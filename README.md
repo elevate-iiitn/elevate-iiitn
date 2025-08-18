@@ -53,13 +53,13 @@ graph TD
     click D "https://github.com/ArnabMistry" _blank
     click D1 "https://github.com/Arnz18" _blank
     click E "https://github.com/Abhist17" _blank
-    click E1 "https://github.com/Web3CoLead" _blank
-    click F "https://github.com/AppLead" _blank
+    click E1 "https://github.com/VedanshShuklaa" _blank
+    click F "https://github.com/Kunal218sss" _blank
     click F1 "https://github.com/dhruvkhandelwal005" _blank
     click G "https://github.com/OjaswiJoshi13" _blank
     click G1 "https://github.com/dhruvnnd" _blank
-    click H "https://github.com/AILead" _blank
-    click H1 "https://github.com/AICoLead" _blank
+    click H "https://github.com/Samarth101" _blank
+    click H1 "https://github.com/raveena2309" _blank
 ```
 ---
 
